@@ -1,8 +1,8 @@
 Lorem Ipsum
 
-Et fugiat et aut sint. Aliquam autem ea recusandae architecto ducimus autem. Dicta est sequi quam totam totam.
+This is the other version of line 1, for branch A.
 
-Totam asperiores quis est praesentium autem ducimus aut sed. A saepe perspiciatis repudiandae eligendi ut adipisci et. Dolor cum rerum voluptate. Sequi ut velit animi quia.
+Totam asperiores quis est praesentium autem ducimus and some other change as well sed. A saepe perspiciatis repudiandae eligendi ut adipisci et. Dolor cum rerum voluptate. Sequi ut velit animi quia.
 
 Eligendi est ex qui placeat aut ducimus voluptatem laboriosam. Placeat enim et voluptatem reiciendis velit molestias. Eum doloribus accusantium eum eius qui qui.
 
