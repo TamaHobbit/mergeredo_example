@@ -1,12 +1,12 @@
 Lorem Ipsum
 
-First line version A is different.
+Resolved first line conflict.
 
-Totam asperiores quis est praesentium autem ducimus aut sed. A saepe perspiciatis repudiandae eligendi ut adipisci et. Dolor cum rerum voluptate. Sequi ut velit animi quia.
+Totam asperiores quis est praesentium autem ducimus and some other change as well sed. A saepe perspiciatis repudiandae eligendi ut adipisci et. Dolor cum rerum voluptate. Sequi ut velit animi quia.
 
 Eligendi est ex qui placeat aut ducimus voluptatem laboriosam. Placeat enim et voluptatem reiciendis velit molestias. Eum doloribus accusantium eum eius qui qui.
 
-Expedita placeat dignissimos in velit dolorem debitis eum. Cum repellendus cum in impedit aut vero. Ullam eligendi doloremque aut et alias. Distinctio eos autem dolores possimus reiciendis inventore ut.
+Expedita placeat this change is called 4 in OP's question. it should only be present in A, not in B in velit dolorem debitis eum. Cum repellendus cum in impedit aut vero. Ullam eligendi doloremque aut et alias. Distinctio eos autem dolores possimus reiciendis inventore ut.
 
 Illum aut dicta nesciunt hic. Dolor molestiae non rerum pariatur labore. Aliquid nihil et nostrum id omnis. Laudantium est aspernatur in. Enim illo et dolorem in. Rerum id autem nemo quis distinctio voluptatum consequuntur hic.
 
